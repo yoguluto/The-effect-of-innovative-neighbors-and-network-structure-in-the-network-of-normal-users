@@ -1,5 +1,5 @@
-# The-effect-of-innovative-neighbors-and-network-structure-in-the-network-of-normal-users
-Data Access for the paper "The effect of innovative neighbors and network structure in the network of normal users"
+# Interplay of network structure and neighbour performance in user innovation
+Data Access for the paper "Interplay of network structure and neighbour performance in user innovation"
 
 In the file of UserNetworkData.csv,there are seven columns. The first one is the serial number of every record (start from 0 and has no real meaning). The second and third columns give the edgelist of user network in our research. Column "F" refers to the start node (i.e. Sender) of ties in the network and column "T" refers to the end (i.e.Reciever). The left columns show the time point when this tie emerged (In other words, the time point when this interaction happened). For convenience, we saved the time point as the exact date ("Date" column), the year of the date ("Year" column), the month of the date("Month" column), the day of the date("Day" column), the how many days has passed from 2007-01-01 to this date ("IntervalDays" column) separately.
 
